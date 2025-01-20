@@ -1,0 +1,236 @@
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam\bin\Debug\ImageGallery-WPF-Exam.exe.config
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam\bin\Debug\ImageGallery-WPF-Exam.exe
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam\bin\Debug\ImageGallery-WPF-Exam.pdb
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam\obj\Debug\ImageGallery-WPF-Exam.csproj.AssemblyReference.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam\obj\Debug\MainWindow.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam\obj\Debug\App.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam\obj\Debug\ImageGallery-WPF-Exam_MarkupCompile.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam\obj\Debug\ImageGallery-WPF-Exam_MarkupCompile.lref
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam\obj\Debug\MainWindow.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam\obj\Debug\ImageGallery-WPF-Exam.g.resources
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam\obj\Debug\ImageGallery_WPF_Exam.Properties.Resources.resources
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam\obj\Debug\ImageGallery-WPF-Exam.csproj.GenerateResource.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam\obj\Debug\ImageGallery-WPF-Exam.csproj.CoreCompileInputs.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam\obj\Debug\ImageGallery-WPF-Exam.exe
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam\obj\Debug\ImageGallery-WPF-Exam.pdb
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam\obj\Debug\frmDisplayImage.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam\obj\Debug\frmDisplayImage.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam\obj\Debug\PhotoDetailsWindow.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam\obj\Debug\PhotoDetailsWindow.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam\obj\Debug\FormatSelectionDialog.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam\obj\Debug\FormatSelectionDialog.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy\bin\Debug\ImageGallery-WPF-Exam.exe.config
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy\bin\Debug\ImageGallery-WPF-Exam.exe
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy\bin\Debug\ImageGallery-WPF-Exam.pdb
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy\obj\Debug\ImageGallery-WPF-Exam.csproj.AssemblyReference.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy\obj\Debug\FormatSelectionDialog.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy\obj\Debug\frmDisplayImage.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy\obj\Debug\FormatSelectionDialog.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy\obj\Debug\frmDisplayImage.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy\obj\Debug\MainWindow.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy\obj\Debug\App.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy\obj\Debug\ImageGallery-WPF-Exam_MarkupCompile.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy\obj\Debug\ImageGallery-WPF-Exam_MarkupCompile.lref
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy\obj\Debug\MainWindow.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy\obj\Debug\ImageGallery-WPF-Exam.g.resources
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy\obj\Debug\ImageGallery_WPF_Exam.Properties.Resources.resources
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy\obj\Debug\ImageGallery-WPF-Exam.csproj.GenerateResource.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy\obj\Debug\ImageGallery-WPF-Exam.csproj.CoreCompileInputs.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy\obj\Debug\ImageGallery-WPF-Exam.exe
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy\obj\Debug\ImageGallery-WPF-Exam.pdb
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy\obj\Debug\DisplayFileAndFolder.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy\obj\Debug\DisplayFileAndFolder.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2)\bin\Debug\ImageGallery-WPF-Exam.exe.config
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2)\bin\Debug\ImageGallery-WPF-Exam.exe
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2)\bin\Debug\ImageGallery-WPF-Exam.pdb
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2)\obj\Debug\ImageGallery-WPF-Exam.csproj.AssemblyReference.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2)\obj\Debug\DisplayFileAndFolder.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2)\obj\Debug\FormatSelectionDialog.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2)\obj\Debug\frmDisplayImage.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2)\obj\Debug\DisplayFileAndFolder.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2)\obj\Debug\FormatSelectionDialog.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2)\obj\Debug\frmDisplayImage.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2)\obj\Debug\MainWindow.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2)\obj\Debug\App.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2)\obj\Debug\ImageGallery-WPF-Exam_MarkupCompile.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2)\obj\Debug\ImageGallery-WPF-Exam_MarkupCompile.lref
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2)\obj\Debug\MainWindow.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2)\obj\Debug\ImageGallery-WPF-Exam.g.resources
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2)\obj\Debug\ImageGallery_WPF_Exam.Properties.Resources.resources
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2)\obj\Debug\ImageGallery-WPF-Exam.csproj.GenerateResource.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2)\obj\Debug\ImageGallery-WPF-Exam.csproj.CoreCompileInputs.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2)\obj\Debug\ImageGallery-WPF-Exam.exe
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2)\obj\Debug\ImageGallery-WPF-Exam.pdb
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy\bin\Debug\ImageGallery-WPF-Exam.exe.config
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy\bin\Debug\ImageGallery-WPF-Exam.exe
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy\bin\Debug\ImageGallery-WPF-Exam.pdb
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy\obj\Debug\ImageGallery-WPF-Exam.csproj.AssemblyReference.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy\obj\Debug\DisplayFileAndFolder.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy\obj\Debug\FormatSelectionDialog.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy\obj\Debug\frmDisplayImage.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy\obj\Debug\DisplayFileAndFolder.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy\obj\Debug\FormatSelectionDialog.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy\obj\Debug\frmDisplayImage.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy\obj\Debug\MainWindow.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy\obj\Debug\App.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy\obj\Debug\ImageGallery-WPF-Exam_MarkupCompile.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy\obj\Debug\ImageGallery-WPF-Exam_MarkupCompile.lref
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy\obj\Debug\MainWindow.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy\obj\Debug\ImageGallery-WPF-Exam.g.resources
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy\obj\Debug\ImageGallery_WPF_Exam.Properties.Resources.resources
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy\obj\Debug\ImageGallery-WPF-Exam.csproj.GenerateResource.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy\obj\Debug\ImageGallery-WPF-Exam.csproj.CoreCompileInputs.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy\obj\Debug\ImageGallery-WPF-Exam.exe
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy\obj\Debug\ImageGallery-WPF-Exam.pdb
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy\obj\Debug\App.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam.csproj.AssemblyReference.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy\obj\Debug\DisplayFileAndFolder.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy\obj\Debug\FormatSelectionDialog.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy\obj\Debug\frmDisplayImage.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy\obj\Debug\DisplayFileAndFolder.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy\obj\Debug\FormatSelectionDialog.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy\obj\Debug\frmDisplayImage.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy\obj\Debug\MainWindow.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy\obj\Debug\App.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam_MarkupCompile.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam_MarkupCompile.lref
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam.exe
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam.pdb
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy\bin\Debug\ImageGallery-WPF-Exam.exe.config
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy\bin\Debug\ImageGallery-WPF-Exam.exe
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy\bin\Debug\ImageGallery-WPF-Exam.pdb
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy\obj\Debug\MainWindow.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam.g.resources
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy\obj\Debug\ImageGallery_WPF_Exam.Properties.Resources.resources
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam.csproj.GenerateResource.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam.csproj.CoreCompileInputs.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy\bin\Debug\Newtonsoft.Json.dll
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy\bin\Debug\Newtonsoft.Json.xml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy\obj\Debug\ImageGal.C14F12E1.Up2Date
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy\obj\Debug\App.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy\bin\Debug\ImageGallery-WPF-Exam.exe.config
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy\bin\Debug\ImageGallery-WPF-Exam.exe
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy\bin\Debug\ImageGallery-WPF-Exam.pdb
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy\bin\Debug\Newtonsoft.Json.dll
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy\bin\Debug\Newtonsoft.Json.xml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam.csproj.AssemblyReference.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy\obj\Debug\DisplayFileAndFolder.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy\obj\Debug\FormatSelectionDialog.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy\obj\Debug\frmDisplayImage.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy\obj\Debug\App.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy\obj\Debug\DisplayFileAndFolder.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy\obj\Debug\FormatSelectionDialog.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy\obj\Debug\frmDisplayImage.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy\obj\Debug\MainWindow.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy\obj\Debug\App.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam_MarkupCompile.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam_MarkupCompile.lref
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy\obj\Debug\MainWindow.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam.g.resources
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy\obj\Debug\ImageGallery_WPF_Exam.Properties.Resources.resources
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam.csproj.GenerateResource.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam.csproj.CoreCompileInputs.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy\obj\Debug\ImageGal.C14F12E1.Up2Date
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam.exe
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam.pdb
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy\bin\Debug\ImageGallery-WPF-Exam.exe.config
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy\bin\Debug\ImageGallery-WPF-Exam.exe
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy\bin\Debug\ImageGallery-WPF-Exam.pdb
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy\bin\Debug\Newtonsoft.Json.dll
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy\bin\Debug\Newtonsoft.Json.xml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam.csproj.AssemblyReference.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy\obj\Debug\DisplayFileAndFolder.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy\obj\Debug\FormatSelectionDialog.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy\obj\Debug\frmDisplayImage.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy\obj\Debug\App.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy\obj\Debug\DisplayFileAndFolder.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy\obj\Debug\FormatSelectionDialog.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy\obj\Debug\frmDisplayImage.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy\obj\Debug\MainWindow.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy\obj\Debug\App.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam_MarkupCompile.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam_MarkupCompile.lref
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy\obj\Debug\MainWindow.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam.g.resources
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy\obj\Debug\ImageGallery_WPF_Exam.Properties.Resources.resources
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam.csproj.GenerateResource.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam.csproj.CoreCompileInputs.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy\obj\Debug\ImageGal.C14F12E1.Up2Date
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam.exe
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam.pdb
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\bin\Debug\ImageGallery-WPF-Exam.exe.config
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\bin\Debug\ImageGallery-WPF-Exam.exe
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\bin\Debug\ImageGallery-WPF-Exam.pdb
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\bin\Debug\Newtonsoft.Json.dll
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\bin\Debug\Newtonsoft.Json.xml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam.csproj.AssemblyReference.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\obj\Debug\DisplayFileAndFolder.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\obj\Debug\FormatSelectionDialog.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\obj\Debug\frmDisplayImage.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\obj\Debug\App.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\obj\Debug\DisplayFileAndFolder.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\obj\Debug\FormatSelectionDialog.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\obj\Debug\frmDisplayImage.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\obj\Debug\MainWindow.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\obj\Debug\App.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam_MarkupCompile.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam_MarkupCompile.lref
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\obj\Debug\MainWindow.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam.g.resources
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\obj\Debug\ImageGallery_WPF_Exam.Properties.Resources.resources
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam.csproj.GenerateResource.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam.csproj.CoreCompileInputs.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\obj\Debug\ImageGal.C14F12E1.Up2Date
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam.exe
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam.pdb
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\bin\Debug\ImageGallery-WPF-Exam.exe.config
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\bin\Debug\ImageGallery-WPF-Exam.exe
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\bin\Debug\ImageGallery-WPF-Exam.pdb
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\bin\Debug\Newtonsoft.Json.dll
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\bin\Debug\Newtonsoft.Json.xml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam.csproj.AssemblyReference.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\DisplayFileAndFolder.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\FormatSelectionDialog.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\frmDisplayImage.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\App.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\DisplayFileAndFolder.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\FormatSelectionDialog.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\frmDisplayImage.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\MainWindow.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\App.g.cs
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam_MarkupCompile.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam_MarkupCompile.lref
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\MainWindow.baml
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam.g.resources
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\ImageGallery_WPF_Exam.Properties.Resources.resources
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam.csproj.GenerateResource.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam.csproj.CoreCompileInputs.cache
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\ImageGal.C14F12E1.Up2Date
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam.exe
+D:\WPF\ImageGallery-WPF-Exam\ImageGallery-WPF-Exam - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\ImageGallery-WPF-Exam.pdb
+D:\WPF\ImageGallery-WPF-Exam\Taing Sengkim - Image Gallery - Winform Exam\bin\Debug\ImageGallery-WPF-Exam.exe.config
+D:\WPF\ImageGallery-WPF-Exam\Taing Sengkim - Image Gallery - Winform Exam\bin\Debug\ImageGallery-WPF-Exam.exe
+D:\WPF\ImageGallery-WPF-Exam\Taing Sengkim - Image Gallery - Winform Exam\bin\Debug\ImageGallery-WPF-Exam.pdb
+D:\WPF\ImageGallery-WPF-Exam\Taing Sengkim - Image Gallery - Winform Exam\bin\Debug\Newtonsoft.Json.dll
+D:\WPF\ImageGallery-WPF-Exam\Taing Sengkim - Image Gallery - Winform Exam\bin\Debug\Newtonsoft.Json.xml
+D:\WPF\ImageGallery-WPF-Exam\Taing Sengkim - Image Gallery - Winform Exam\obj\Debug\ImageGallery-WPF-Exam.csproj.AssemblyReference.cache
+D:\WPF\ImageGallery-WPF-Exam\Taing Sengkim - Image Gallery - Winform Exam\obj\Debug\DisplayFileAndFolder.baml
+D:\WPF\ImageGallery-WPF-Exam\Taing Sengkim - Image Gallery - Winform Exam\obj\Debug\FormatSelectionDialog.baml
+D:\WPF\ImageGallery-WPF-Exam\Taing Sengkim - Image Gallery - Winform Exam\obj\Debug\frmDisplayImage.baml
+D:\WPF\ImageGallery-WPF-Exam\Taing Sengkim - Image Gallery - Winform Exam\obj\Debug\App.baml
+D:\WPF\ImageGallery-WPF-Exam\Taing Sengkim - Image Gallery - Winform Exam\obj\Debug\DisplayFileAndFolder.g.cs
+D:\WPF\ImageGallery-WPF-Exam\Taing Sengkim - Image Gallery - Winform Exam\obj\Debug\FormatSelectionDialog.g.cs
+D:\WPF\ImageGallery-WPF-Exam\Taing Sengkim - Image Gallery - Winform Exam\obj\Debug\frmDisplayImage.g.cs
+D:\WPF\ImageGallery-WPF-Exam\Taing Sengkim - Image Gallery - Winform Exam\obj\Debug\MainWindow.g.cs
+D:\WPF\ImageGallery-WPF-Exam\Taing Sengkim - Image Gallery - Winform Exam\obj\Debug\App.g.cs
+D:\WPF\ImageGallery-WPF-Exam\Taing Sengkim - Image Gallery - Winform Exam\obj\Debug\ImageGallery-WPF-Exam_MarkupCompile.cache
+D:\WPF\ImageGallery-WPF-Exam\Taing Sengkim - Image Gallery - Winform Exam\obj\Debug\ImageGallery-WPF-Exam_MarkupCompile.lref
+D:\WPF\ImageGallery-WPF-Exam\Taing Sengkim - Image Gallery - Winform Exam\obj\Debug\MainWindow.baml
+D:\WPF\ImageGallery-WPF-Exam\Taing Sengkim - Image Gallery - Winform Exam\obj\Debug\ImageGallery-WPF-Exam.g.resources
+D:\WPF\ImageGallery-WPF-Exam\Taing Sengkim - Image Gallery - Winform Exam\obj\Debug\ImageGallery_WPF_Exam.Properties.Resources.resources
+D:\WPF\ImageGallery-WPF-Exam\Taing Sengkim - Image Gallery - Winform Exam\obj\Debug\ImageGallery-WPF-Exam.csproj.GenerateResource.cache
+D:\WPF\ImageGallery-WPF-Exam\Taing Sengkim - Image Gallery - Winform Exam\obj\Debug\ImageGallery-WPF-Exam.csproj.CoreCompileInputs.cache
+D:\WPF\ImageGallery-WPF-Exam\Taing Sengkim - Image Gallery - Winform Exam\obj\Debug\ImageGal.C14F12E1.Up2Date
+D:\WPF\ImageGallery-WPF-Exam\Taing Sengkim - Image Gallery - Winform Exam\obj\Debug\ImageGallery-WPF-Exam.exe
+D:\WPF\ImageGallery-WPF-Exam\Taing Sengkim - Image Gallery - Winform Exam\obj\Debug\ImageGallery-WPF-Exam.pdb

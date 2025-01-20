@@ -1,0 +1,64 @@
+﻿<Application x:Class="ImageGallery_WPF_Exam.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <!-- Large Icons Template -->
+        <DataTemplate x:Key="LargeIconsTemplate">
+            <StackPanel Orientation="Vertical">
+                <Image Width="200" Height="200">
+                    <Image.Source>
+                        <BitmapImage UriSource="{Binding Icon}" CacheOption="OnLoad" />
+                    </Image.Source>
+                </Image>
+                <TextBlock Text="{Binding Name}"  HorizontalAlignment="Center" />
+            </StackPanel>
+        </DataTemplate>
+
+        <!-- Medium Icons Template -->
+        <DataTemplate x:Key="MediumIconsTemplate">
+            <StackPanel Orientation="Vertical">
+                <Image Width="100" Height="100">
+                    <Image.Source>
+                        <BitmapImage UriSource="{Binding Icon}" CacheOption="OnLoad" />
+                    </Image.Source>
+                </Image>
+                <TextBlock Text="{Binding Name}" HorizontalAlignment="Center" />
+            </StackPanel>
+        </DataTemplate>
+
+        <!-- Small Icons Template -->
+        <DataTemplate x:Key="SmallIconsTemplate">
+            <StackPanel Orientation="Vertical">
+                <Image Width="50" Height="50">
+                    <Image.Source>
+                        <BitmapImage UriSource="{Binding Icon}" CacheOption="OnLoad" />
+                    </Image.Source>
+                </Image>
+                <TextBlock Text="{Binding Name}" HorizontalAlignment="Center" />
+            </StackPanel>
+        </DataTemplate>
+
+        <!-- List Template -->
+        <DataTemplate x:Key="ListTemplate">
+            <StackPanel Orientation="Horizontal">
+                <Image Width="32" Height="32">
+                    <Image.Source>
+                        <BitmapImage UriSource="{Binding Icon}" CacheOption="OnLoad" />
+                    </Image.Source>
+                </Image>
+                <TextBlock Text="{Binding Name}"  Margin="10,0,0,0" VerticalAlignment="Center" />
+            </StackPanel>
+        </DataTemplate>
+
+        <!-- WrapPanel for Icons View -->
+        <ItemsPanelTemplate x:Key="IconsPanelTemplate">
+            <WrapPanel Margin="20" Orientation="Horizontal" />
+        </ItemsPanelTemplate>
+
+        <!-- StackPanel for List View -->
+        <ItemsPanelTemplate x:Key="ListPanelTemplate">
+            <StackPanel Margin="20" Orientation="Vertical" />
+        </ItemsPanelTemplate>
+    </Application.Resources>
+</Application>

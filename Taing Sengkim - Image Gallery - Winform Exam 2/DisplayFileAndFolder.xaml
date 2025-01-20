@@ -1,0 +1,118 @@
+﻿<Page x:Class="ImageGallery_WPF_Exam.DisplayFileAndFolder"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="DisplayImages">
+    
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.1*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="0.4*"/>
+        </Grid.ColumnDefinitions>
+
+         
+        
+        <Grid Grid.Row="0">
+            <StackPanel Orientation="Horizontal">
+                <TextBox Name="txtSearch"   Width="200" Height="30" Margin="5,10" />
+                <ComboBox Name="cmbSearchType"   Width="50" Height="30" Margin="5,10"/>
+                <Button Name="btnSearch"   Width="30"   Margin="5,10" Click="btnSearch_Click" Background="Transparent" BorderThickness="0">
+                    <Image Source="images/search.png"/>
+                </Button>
+                
+                  <ComboBox x:Name="cmbSearchHistory" 
+                  ItemsSource="{Binding SearchHistory}" 
+                  Margin="5,10" 
+                    IsReadOnly="True"
+                  SelectionChanged="cmbSearchHistory_SelectionChanged"
+                     Width="100" Height="30"    
+                    IsEditable="True" 
+                  Text="Search History" />
+                <Button Name="btnClearHistory"  Margin="5,10" Click="btnClearHistory_Click" Background="Transparent" BorderThickness="0">
+                    <StackPanel Orientation="Vertical">
+                        <Image Source="images/clean.png" Width="20" Height="20"/>
+                        <TextBlock Text="History" FontSize="10"/>
+                    </StackPanel>
+                </Button>
+
+                <TextBox IsReadOnly="True" x:Name="txtDisplay" Foreground="Black" FontSize="16" Margin="5,10"   Width="540" Height="30" />
+            </StackPanel>
+            
+        </Grid>
+        <Grid Grid.Row="0" Grid.Column="1">
+            <ComboBox HorizontalAlignment="Left" x:Name="cmbTypeFile" Foreground="Black" FontSize="16" Margin="5,10" Width="100" Height="30" SelectionChanged="CmbTypeFile_SelectionChanged"/>
+        </Grid>
+        <!-- Display the selected path -->
+        
+        <!-- Display files and folders in the selected directory -->
+        <ListView Background="WhiteSmoke" x:Name="listViewItems" ItemsSource="{Binding Items}" Grid.Row="1" 
+          DragOver="listViewItems_DragOver"
+          MouseLeftButtonUp="listViewItems_MouseLeftButtonUp"
+          AllowDrop="True"
+            SelectionChanged="listViewItems_SelectionChanged"
+          DragEnter="listViewItems_DragEnter"
+          Drop="listViewItems_Drop"
+          MouseMove="listViewItems_MouseMove"
+          MouseDoubleClick="ListViewFiles_MouseDoubleClick"
+          ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+          ScrollViewer.VerticalScrollBarVisibility="Auto">
+
+            <!-- Define the ContextMenu at the ListView level -->
+            <ListView.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Open" Name="miOpen" Click="miOpen_Click"/>
+                    <MenuItem Header="Insert" Click="miInsert_Click" />
+                    <MenuItem Header="Delete" Name="miDelete" Click="miDelete_Click"/>
+                    <MenuItem Header="Convert To another format" Name="miConvertFormat" Click="miConvertFormat_Click" />
+                    <MenuItem Header="Copy" Name="miCopy" Click="miCopy_Click"  />
+                    <MenuItem Header="Paste" Name="miPaste" Click="miPaste_Click"/>
+                </ContextMenu>
+            </ListView.ContextMenu>
+
+            <ListView.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <WrapPanel Margin="20" Orientation="Horizontal" />
+                </ItemsPanelTemplate>
+            </ListView.ItemsPanel>
+
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Vertical">
+                        <!-- Use a custom Image control to ensure the file is not locked -->
+                        <Image Width="150" Height="150">
+                            <Image.Source>
+                                <BitmapImage UriSource="{Binding Icon}" CacheOption="OnLoad" />
+                            </Image.Source>
+                        </Image>
+                        <TextBlock Text="{Binding Name}" Foreground="Black" HorizontalAlignment="Center" />
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Grid Grid.Row="1" Grid.Column="2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0">
+                <Image  x:Name="imgSelectedIcon" Width="350" Height="350" Stretch="Uniform" />
+            </Grid>
+            <Grid Grid.Row="1">
+                <TreeView FontSize="20" Name="treeViewFileStructure" Background="WhiteSmoke" Foreground="Black" 
+                            ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                            ScrollViewer.VerticalScrollBarVisibility="Auto">
+                    <TreeView.ItemTemplate>
+                        <HierarchicalDataTemplate ItemsSource="{Binding Details}">
+                            <TextBlock Foreground="Black" Text="{Binding Name}" />
+                        </HierarchicalDataTemplate>
+                    </TreeView.ItemTemplate>
+                </TreeView>
+            </Grid>
+        </Grid>
+        <Image x:Name="imgFileContent" Grid.Row="1" Margin="10"  />
+    </Grid>
+</Page>
