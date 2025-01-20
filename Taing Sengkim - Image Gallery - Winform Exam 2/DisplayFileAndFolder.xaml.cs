@@ -578,25 +578,61 @@ namespace ImageGallery_WPF_Exam
         }
         private void miPaste_Click(object sender, RoutedEventArgs e)
         {
-            // Check if the clipboard contains file drop data
-            if (Clipboard.ContainsFileDropList())
+            if (Clipboard.ContainsData(DataFormats.FileDrop))
             {
-                // Get the file drop list from the clipboard
-                var fileDropList = Clipboard.GetFileDropList();
+                string[] files = (string[])Clipboard.GetData(DataFormats.FileDrop);
 
-                // Iterate through each file/folder in the list
-                foreach (string filePath in fileDropList)
+                bool isCutOperation = Clipboard.ContainsData("IsCutOperation")
+                    && (bool)Clipboard.GetData("IsCutOperation");
+
+                foreach (string filePath in files)
                 {
-                    GenerateUniqueFilePath(filePath);
+                    try
+                    {
+                        string newFilePath = GetUniqueFilePath(filePath);
+
+                        if (isCutOperation)
+                        {
+                            File.Move(filePath, newFilePath);
+                        }
+                        else
+                        {
+                            File.Copy(filePath, newFilePath);
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show($"Error: {ex.Message}");
+                    }
                 }
+                if (isCutOperation)
+                {
+                    Clipboard.Clear();
+                }
+
                 _fileManager.LoadFiles(_currentDirectory, listViewItems, cmbTypeFile);
             }
-            else
-            {
-                MessageBox.Show("No files to paste.", "Information", MessageBoxButton.OK, MessageBoxImage.Information);
-            }
         }
+        private string GetUniqueFilePath(string filePath)
+        {
+            string fileName = Path.GetFileName(filePath);
+            string newFilePath = Path.Combine(_currentDirectory, fileName);
 
+            if (File.Exists(newFilePath))
+            {
+                int copyNumber = 1;
+                string fileNameWithoutExtension = Path.GetFileNameWithoutExtension(filePath);
+                string extension = Path.GetExtension(filePath);
+
+                do
+                {
+                    newFilePath = Path.Combine(_currentDirectory, $"{fileNameWithoutExtension}_copy{copyNumber}{extension}");
+                    copyNumber++;
+                } while (File.Exists(newFilePath));
+            }
+
+            return newFilePath;
+        }
         private void listViewItems_DragOver(object sender, DragEventArgs e)
         {
             if (e.Data.GetDataPresent(DataFormats.FileDrop))
@@ -652,6 +688,27 @@ namespace ImageGallery_WPF_Exam
             SearchHistory.Clear();
             _fileManager.ClearSearchHistoryFile();
             MessageBox.Show("Search history cleared successfully.", "Information", MessageBoxButton.OK, MessageBoxImage.Information);
+        }
+        private void miCut_Click(object sender, RoutedEventArgs e)
+        {
+            var selectedItem = listViewItems.SelectedItem as ListViewItemModel;
+            if (selectedItem != null)
+            {
+                var fileDropList = new System.Collections.Specialized.StringCollection();
+                fileDropList.Add(selectedItem.Path);
+
+                // create a daataObject with both the file list and a "IsCutOperation" flag
+                var data = new DataObject();
+                data.SetFileDropList(fileDropList);
+                data.SetData("IsCutOperation", true);
+
+                Clipboard.SetDataObject(data);
+                MessageBox.Show($"Cut: {selectedItem.Path}", "Cut", MessageBoxButton.OK, MessageBoxImage.Information);
+            }
+            else
+            {
+                MessageBox.Show("Please select an item to cut.", "Information", MessageBoxButton.OK, MessageBoxImage.Information);
+            }
         }
     }
 }

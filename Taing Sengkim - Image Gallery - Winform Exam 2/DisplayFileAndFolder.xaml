@@ -69,6 +69,7 @@
                     <MenuItem Header="Delete" Name="miDelete" Click="miDelete_Click"/>
                     <MenuItem Header="Convert To another format" Name="miConvertFormat" Click="miConvertFormat_Click" />
                     <MenuItem Header="Copy" Name="miCopy" Click="miCopy_Click"  />
+                    <MenuItem Header="Cut" Name="miCut" Click="miCut_Click" />
                     <MenuItem Header="Paste" Name="miPaste" Click="miPaste_Click"/>
                 </ContextMenu>
             </ListView.ContextMenu>
