@@ -1,85 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|d:\\wpf\\imagegallery-wpf-exam\\taing sengkim - image gallery - winform exam\\displayfileandfolder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\displayfileandfolder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|solutionrelative:displayfileandfolder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\frmdisplayimage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|solutionrelative:frmdisplayimage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\formatselectiondialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|solutionrelative:formatselectiondialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|solutionrelative:appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|solutionrelative:filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\model\\treeviewitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|solutionrelative:model\\treeviewitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\model\\searchhistoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|solutionrelative:model\\searchhistoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\model\\listviewitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|solutionrelative:model\\listviewitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\displayfileandfolder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\displayfileandfolder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|solutionrelative:displayfileandfolder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\obj\\Debug\\DisplayFileAndFolder.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|c:\\users\\asus\\desktop\\fb-project\\wpf-image-gallery-project-\\taing sengkim - image gallery - winform exam 2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\frmdisplayimage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|solutionrelative:frmdisplayimage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\formatselectiondialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|solutionrelative:formatselectiondialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|solutionrelative:appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|solutionrelative:filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\model\\treeviewitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|solutionrelative:model\\treeviewitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\model\\searchhistoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|solutionrelative:model\\searchhistoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\model\\listviewitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|solutionrelative:model\\listviewitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\obj\\Debug\\DisplayFileAndFolder.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\DisplayFileAndFolder.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\formatselectiondialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\formatselectiondialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|solutionrelative:formatselectiondialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\frmdisplayimage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\frmdisplayimage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|solutionrelative:frmdisplayimage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\images\\drive-icon-png-17.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\images\\drive-icon-png-17.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
       "RelativeMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|solutionrelative:images\\drive-icon-png-17.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\images\\3dfile.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\images\\3dfile.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
       "RelativeMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|solutionrelative:images\\3dfile.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0BB8336-43D0-46F6-B704-09288922E51C}|ImageGallery-WPF-Exam.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -116,34 +116,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAApwFUAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T06:28:25.645Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "FormatSelectionDialog.xaml",
-              "DocumentMoniker": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\FormatSelectionDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\FormatSelectionDialog.xaml",
               "RelativeDocumentMoniker": "FormatSelectionDialog.xaml",
-              "ToolTip": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\FormatSelectionDialog.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\FormatSelectionDialog.xaml",
               "RelativeToolTip": "FormatSelectionDialog.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-18T06:18:51.732Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-18T06:28:38.691Z",
@@ -151,11 +139,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DisplayFileAndFolder.xaml",
-              "DocumentMoniker": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\DisplayFileAndFolder.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\DisplayFileAndFolder.xaml",
               "RelativeDocumentMoniker": "DisplayFileAndFolder.xaml",
-              "ToolTip": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\DisplayFileAndFolder.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\DisplayFileAndFolder.xaml",
               "RelativeToolTip": "DisplayFileAndFolder.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-18T12:23:59.327Z",
@@ -163,22 +151,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "frmDisplayImage.xaml",
-              "DocumentMoniker": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\frmDisplayImage.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\frmDisplayImage.xaml",
               "RelativeDocumentMoniker": "frmDisplayImage.xaml",
-              "ToolTip": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\frmDisplayImage.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\frmDisplayImage.xaml",
               "RelativeToolTip": "frmDisplayImage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-18T06:28:04.017Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "FileManager.cs",
-              "DocumentMoniker": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\FileManager.cs",
               "RelativeDocumentMoniker": "FileManager.cs",
-              "ToolTip": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\FileManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\FileManager.cs",
               "RelativeToolTip": "FileManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAMoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -186,11 +174,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "packages.config",
-              "DocumentMoniker": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\packages.config",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\packages.config",
               "RelativeDocumentMoniker": "packages.config",
-              "ToolTip": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\packages.config",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\packages.config",
               "RelativeToolTip": "packages.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -198,11 +186,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AppConfig.cs",
-              "DocumentMoniker": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\AppConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\AppConfig.cs",
               "RelativeDocumentMoniker": "AppConfig.cs",
-              "ToolTip": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\AppConfig.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\AppConfig.cs",
               "RelativeToolTip": "AppConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -210,23 +198,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "App.xaml",
-              "DocumentMoniker": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\App.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\App.xaml",
               "RelativeToolTip": "App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-19T06:27:31.298Z",
+              "WhenOpened": "2025-01-19T06:27:31.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisplayFileAndFolder.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\DisplayFileAndFolder.xaml.cs",
+              "RelativeDocumentMoniker": "DisplayFileAndFolder.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\DisplayFileAndFolder.xaml.cs",
+              "RelativeToolTip": "DisplayFileAndFolder.xaml.cs",
+              "ViewState": "AQIAAKICAAAAAAAAAAAkwMcCAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T12:25:04.801Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAApwFUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T06:28:25.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "TreeViewItemModel.cs",
-              "DocumentMoniker": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\Model\\TreeViewItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\Model\\TreeViewItemModel.cs",
               "RelativeDocumentMoniker": "Model\\TreeViewItemModel.cs",
-              "ToolTip": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\Model\\TreeViewItemModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\Model\\TreeViewItemModel.cs",
               "RelativeToolTip": "Model\\TreeViewItemModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -234,11 +246,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "SearchHistoryItem.cs",
-              "DocumentMoniker": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\Model\\SearchHistoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\Model\\SearchHistoryItem.cs",
               "RelativeDocumentMoniker": "Model\\SearchHistoryItem.cs",
-              "ToolTip": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\Model\\SearchHistoryItem.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\Model\\SearchHistoryItem.cs",
               "RelativeToolTip": "Model\\SearchHistoryItem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -248,9 +260,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "FormatSelectionDialog.xaml.cs",
-              "DocumentMoniker": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\FormatSelectionDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\FormatSelectionDialog.xaml.cs",
               "RelativeDocumentMoniker": "FormatSelectionDialog.xaml.cs",
-              "ToolTip": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\FormatSelectionDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\FormatSelectionDialog.xaml.cs",
               "RelativeToolTip": "FormatSelectionDialog.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -258,23 +270,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DisplayFileAndFolder.xaml.cs",
-              "DocumentMoniker": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\DisplayFileAndFolder.xaml.cs",
-              "RelativeDocumentMoniker": "DisplayFileAndFolder.xaml.cs",
-              "ToolTip": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\DisplayFileAndFolder.xaml.cs",
-              "RelativeToolTip": "DisplayFileAndFolder.xaml.cs",
-              "ViewState": "AQIAAFkCAAAAAAAAAAAgwJACAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T12:25:04.801Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 13,
               "Title": "DisplayFileAndFolder.g.i.cs",
-              "DocumentMoniker": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\obj\\Debug\\DisplayFileAndFolder.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\obj\\Debug\\DisplayFileAndFolder.g.i.cs",
               "RelativeDocumentMoniker": "obj\\Debug\\DisplayFileAndFolder.g.i.cs",
-              "ToolTip": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\obj\\Debug\\DisplayFileAndFolder.g.i.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\obj\\Debug\\DisplayFileAndFolder.g.i.cs",
               "RelativeToolTip": "obj\\Debug\\DisplayFileAndFolder.g.i.cs",
               "ViewState": "AQIAAO8AAAAAAAAAAAAqwAsBAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -284,9 +284,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "frmDisplayImage.xaml.cs",
-              "DocumentMoniker": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\frmDisplayImage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\frmDisplayImage.xaml.cs",
               "RelativeDocumentMoniker": "frmDisplayImage.xaml.cs",
-              "ToolTip": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\frmDisplayImage.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\frmDisplayImage.xaml.cs",
               "RelativeToolTip": "frmDisplayImage.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -294,11 +294,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ListViewItemModel.cs",
-              "DocumentMoniker": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\Model\\ListViewItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\Model\\ListViewItemModel.cs",
               "RelativeDocumentMoniker": "Model\\ListViewItemModel.cs",
-              "ToolTip": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\Model\\ListViewItemModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\Model\\ListViewItemModel.cs",
               "RelativeToolTip": "Model\\ListViewItemModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -308,9 +308,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "drive-icon-png-17.png",
-              "DocumentMoniker": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\images\\drive-icon-png-17.png",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\images\\drive-icon-png-17.png",
               "RelativeDocumentMoniker": "images\\drive-icon-png-17.png",
-              "ToolTip": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\images\\drive-icon-png-17.png",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\images\\drive-icon-png-17.png",
               "RelativeToolTip": "images\\drive-icon-png-17.png",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2025-01-20T06:11:59.542Z"
@@ -319,9 +319,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "3DFile.png",
-              "DocumentMoniker": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\images\\3DFile.png",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\images\\3DFile.png",
               "RelativeDocumentMoniker": "images\\3DFile.png",
-              "ToolTip": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\images\\3DFile.png",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\images\\3DFile.png",
               "RelativeToolTip": "images\\3DFile.png",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2025-01-20T06:12:01.717Z"
@@ -330,9 +330,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "App.config",
-              "DocumentMoniker": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\App.config",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\App.config",
               "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\App.config",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\App.config",
               "RelativeToolTip": "App.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -342,9 +342,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",
-              "ToolTip": "D:\\WPF\\ImageGallery-WPF-Exam\\Taing Sengkim - Image Gallery - Winform Exam\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FB-Project\\WPF-Image-Gallery-Project-\\Taing Sengkim - Image Gallery - Winform Exam 2\\App.xaml.cs",
               "RelativeToolTip": "App.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -355,7 +355,9 @@
               "DocumentIndex": 21,
               "Title": "FrameworkTemplate.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\.vsdbgsrc\\573b2880de378bcf441369c3a2498b47757341930a70040b33011a78e0c10adf\\FrameworkTemplate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\573b2880de378bcf441369c3a2498b47757341930a70040b33011a78e0c10adf\\FrameworkTemplate.cs",
               "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\.vsdbgsrc\\573b2880de378bcf441369c3a2498b47757341930a70040b33011a78e0c10adf\\FrameworkTemplate.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\573b2880de378bcf441369c3a2498b47757341930a70040b33011a78e0c10adf\\FrameworkTemplate.cs",
               "ViewState": "AQIAAAcDAAAAAAAAAAAAwBcDAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-18T11:36:02.491Z"
@@ -365,7 +367,9 @@
               "DocumentIndex": 20,
               "Title": "ItemCollection.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\.vsdbgsrc\\e1ca45a7d84bff8cb82aa649f8d0d675c40434bef30bcc2b78d300619c3eaa20\\ItemCollection.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e1ca45a7d84bff8cb82aa649f8d0d675c40434bef30bcc2b78d300619c3eaa20\\ItemCollection.cs",
               "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\.vsdbgsrc\\e1ca45a7d84bff8cb82aa649f8d0d675c40434bef30bcc2b78d300619c3eaa20\\ItemCollection.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e1ca45a7d84bff8cb82aa649f8d0d675c40434bef30bcc2b78d300619c3eaa20\\ItemCollection.cs",
               "ViewState": "AQIAAIIFAAAAAAAAAADwv5kFAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-18T17:03:41.529Z"
